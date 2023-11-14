@@ -4,10 +4,8 @@
 As a notetaker,
 I want to be able to categorize and search through my handwritten notes so that I can find the information that I need.
 ```
-<br>
 
 ## Acceptance Criteria 
-<br>
 
 - Sign Up and login: I should be able to sign up and login into the app with the help of an email or other authentication methods.
 - Uploading images: I should be able to upload the images into the app using the camera or the images that are already in the device.
