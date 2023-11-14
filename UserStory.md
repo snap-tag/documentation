@@ -1,7 +1,7 @@
 # User Story 
 
 ```
-As a user,
+As a notetaker,
 I want to be able to categorize and search through my handwritten notes so that I can find the information that I need.
 ```
 <br>
