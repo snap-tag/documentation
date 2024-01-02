@@ -1,0 +1,5 @@
+\contentsline {chapter}{\numberline {1}\uppercase {Introduction}}{3}{}%
+\contentsline {chapter}{\numberline {2}\uppercase {literature review}}{4}{}%
+\contentsline {chapter}{\numberline {3}\uppercase {methodology}}{5}{}%
+\contentsline {chapter}{\numberline {4}\uppercase {Result and discussion}}{6}{}%
+\contentsline {chapter}{\numberline {5}\uppercase {references}}{7}{}%
